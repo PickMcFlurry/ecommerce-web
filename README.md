@@ -1,5 +1,9 @@
 # E-commerce Store
 
+# Live Preview
+
+https://bardan-ecommerce.netlify.app/
+
 ## Project Overview
 
 A modern e-commerce web application designed to showcase and sell fashion products. It features a clean, responsive design, product listings, detailed product pages, and a user-friendly interface. The application is built with React and leverages GSAP for smooth animations, providing an engaging user experience.
