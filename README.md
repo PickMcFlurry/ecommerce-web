@@ -66,7 +66,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ## Project Structure
 
-\`\`\`
+```
 .
 ├── public/
 │ └── ... (static assets)
@@ -102,7 +102,7 @@ Follow these steps to get the project up and running on your local machine.
 ├── tailwind.config.js (Tailwind CSS configuration)
 ├── vite.config.js (Vite build configuration)
 └── README.md (This file)
-\`\`\`
+```
 
 ## API
 
