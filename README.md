@@ -13,10 +13,9 @@ A modern e-commerce web application designed to showcase and sell fashion produc
 - **Home Page**: Engaging hero section with animated text, featured products, an "About Us" section, customer reviews, and a newsletter signup.
 - **Product Listing**: Browse all available products with filtering options by category, and sorting by price (low to high, high to low) and rating.
 - **Product Details Page**: View detailed information about each product, including description, price, rating, and options to adjust quantity and add to cart.
-- **Search Functionality**: Easily find products using the search bar on the products page.
-- **Responsive Design**: Optimized for various screen sizes, from mobile devices to desktops.
+- **Search Functionality**: Easily find products using the search bar on the products 
 - **Smooth Animations**: Utilizes GSAP for dynamic and visually appealing transitions and effects.
-- **Login Page**: A dedicated login interface for user authentication.
+- **Login Page**: A dedicated login interface.
 - **Footer**: Contains quick links, extra links, and a quick enquiry form.
 
 ## Technologies Used
