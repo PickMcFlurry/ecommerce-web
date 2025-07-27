@@ -2,7 +2,7 @@
 
 # Live Preview
 
-https://bardan-ecommerce.netlify.app/
+[https://bardan-ecommerce.netlify.app/](https://bardan-ecommerce-web.netlify.app/)
 
 ## Project Overview
 
