@@ -40,14 +40,14 @@ Follow these steps to get the project up and running on your local machine.
 ### Steps
 
 1.  **Clone the repository:**
-    \`\`\`bash
+    ```bash
     git clone https://github.com/PickMcFlurry/ecommerce-web.git
     cd ecommerce-web
-    \`\`\`
+    ```
 
 2.  **Install dependencies:**
-    \`\`\`bash
-    npm install or npm i
+    ```bash
+    npm install
     npm install axios
     npm install gsap
     npm install @gsap/react
@@ -55,10 +55,11 @@ Follow these steps to get the project up and running on your local machine.
     npm install react-router-dom
 
 3.  **Start the development server:**
-    \`\`\`bash
+   ```bash
     npm run dev
 
     The application will be accessible at `http://localhost:5173` (or another port if 5173 is in use).
+```
 
 ## Usage
 
